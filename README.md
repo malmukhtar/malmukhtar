@@ -1,12 +1,3 @@
-### 📊 &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malmukhtar&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malmukhtar&layout=compact&theme=algolia" />
-</p>
-
----
-
 ### ⚡ &nbsp;Recent GitHub Activity
 
 <p align="center">
@@ -21,12 +12,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malmukhtar&theme=algolia" alt="malmukhtar" />
-</p>
-
----
-
-### 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malmukhtar&theme=algolia&no-bg=true&margin-w=10" />
 </p>
